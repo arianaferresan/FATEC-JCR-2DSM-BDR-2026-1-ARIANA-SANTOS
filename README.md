@@ -1,4 +1,6 @@
-# 📊 Portfólio de Banco de Dados Relacional
+# O Erik Rost é muito intrometido 
+
+📊 Portfólio de Banco de Dados Relacional
 
 Repositório desenvolvido para a disciplina de Banco de Dados Relacional no semestre 2026/1.
 Este portfólio reúne atividades, conteúdos e o desenvolvimento do Projeto ABP ao longo do semestre.
